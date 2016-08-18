@@ -11,10 +11,10 @@ highlighter: pygments
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Cardon Polock
+  email : contact@savagetechnomusic.com
+  github : iPolock
+  twitter : SavageMusicCorp
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
