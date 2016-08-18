@@ -27,7 +27,7 @@ author :
 #
 production_url : http://dev.savagetechno.org
 
-gems: ["jekyll-sitemap"]
+gems: ["hooligans"]
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
